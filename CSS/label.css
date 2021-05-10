@@ -1,0 +1,9 @@
+label{
+    color: var(--color-five);
+    font: 25px 400 Press Start 2P;
+    font-weight: 400;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
