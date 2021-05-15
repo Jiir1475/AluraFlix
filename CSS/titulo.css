@@ -3,4 +3,6 @@ h1{
     text-shadow: 4px 4px 0px var(--color-for);
     text-align: center;
     font-size: 45px;
+    margin-top: 35px;
+    margin-bottom: 30px;
 }

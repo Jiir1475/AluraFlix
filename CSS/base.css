@@ -1,11 +1,11 @@
 :root{
     /*Controle de cor da pagína*/
-    --color-first: #9E1616;
+    --color-first: #800;
     --color-second: #254F51;
     --color-third: #37767A;
 
     --color-for:  #091414;
-    --color-five: #D4C6C6;
+    --color-five: #fff;
 }
 
 body{
